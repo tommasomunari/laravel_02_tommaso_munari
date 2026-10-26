@@ -28,6 +28,9 @@
             <li>
                 <a href="{{route("premier1")}}">Premier League</a>
             </li>
+             <li>
+                <a href="{{route("totale1")}}">Tutte le Squadre</a>
+            </li>
         </ul>
 
         <div class="div-nav">
